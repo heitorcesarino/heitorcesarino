@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heitorcesarino
-- 👀 I’m interested in ... be a DEV
-- 🌱 I’m currently learning ... java script, html and css.
+- 👀 I’m interested in ... be a web developer
+- 🌱 I’m currently learning ... Js, HTML, CSS 
 - 💞️ I’m looking to collaborate on ...world.
 - 📫 How to reach me ... discord heitor cesarino#4329
 

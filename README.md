@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heitorcesarino
-- 👀 I’m interested in ... be a web developer
-- 🌱 I’m currently learning ... Js, HTML, CSS 
+- 👀 I’m interested in ... Data science, engineering and analytics.
+- 🌱 I’m currently learning ... Python, Spark, SQL and GCP.
 - 💞️ I’m looking to collaborate on ...world.
 - 📫 How to reach me ... discord heitor cesarino#4329
 
